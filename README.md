@@ -1,1 +1,2 @@
 # Sneaker-Bot-UI
+This is an Electron based GUI that utilizes the ReactJS framework that I'm open sourcing due to the client not being used anymore. There is a lot of functions and files I left out such as the .jsx files to all pop up windows, authentication endpoints, and other sensitive or still in-use data. A majority of the client is still intact and retained a lot of useful functionalities. I hope this open-source becomes of use to all future Sneaker/Software developers
